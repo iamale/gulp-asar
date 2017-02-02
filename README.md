@@ -17,3 +17,16 @@ gulp.task('default', function() {
   .pipe(gulp.dest('dist'));
 });
 ```
+
+Parts of code based on:
+* [original `gulp-asar`](https://github.com/bwin/gulp-asar)
+  by Benjamin Winkler
+  and [contributors](https://github.com/bwin/gulp-asar/graphs/contributors)
+* [`asar`](https://github.com/electron/asar)
+  by GitHub, Inc.
+  and [contributors](https://github.com/electron/asar/graphs/contributors)
+* [`gulp-tar`](https://github.com/sindresorhus/gulp-tar)
+  by Sindre Sorhus
+  and [contributors](https://github.com/sindresorhus/gulp-tar/graphs/contributors)
+
+(everything licensed MIT)
