@@ -9,21 +9,17 @@
   "scripts": {
     "test": "mocha --reporter spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/bwin/gulp-asar.git"
-  },
+  "repository": "iamale/gulp-asar",
   "keywords": [
     "gulpplugin",
     "asar",
     "electron"
   ],
-  "author": "Benjamin Winkler (bwin)",
+  "author": "Alexander Pushkov <hi@ale.rocks>",
+  "contributors": ["Benjamin Winkler"],
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bwin/gulp-asar/issues"
-  },
-  "homepage": "https://github.com/bwin/gulp-asar",
+  "bugs": "https://github.com/iamale/gulp-asar/issues",
+  "homepage": "https://github.com/iamale/gulp-asar",
   "devDependencies": {
     "gulp": "^3.8.11",
     "mocha": "^2.2.5"
