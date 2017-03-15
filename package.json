@@ -1,6 +1,6 @@
 {
   "name": "gulp-asar",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Gulp plugin to generate Electron .asar archives.",
   "main": "index.js",
   "engines": {
@@ -16,7 +16,9 @@
     "electron"
   ],
   "author": "Alexander Pushkov <hi@ale.rocks>",
-  "contributors": ["Benjamin Winkler"],
+  "contributors": [
+    "Benjamin Winkler"
+  ],
   "license": "MIT",
   "bugs": "https://github.com/iamale/gulp-asar/issues",
   "homepage": "https://github.com/iamale/gulp-asar",
